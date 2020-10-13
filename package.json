@@ -1,0 +1,16 @@
+{
+  "name": "request-multiple-urls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn ava test/index.test.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "ava": "^3.13.0",
+    "testdouble": "^3.16.1"
+  }
+}
