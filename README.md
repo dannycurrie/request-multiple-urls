@@ -4,8 +4,16 @@ Request mutiple URLs in a single function call and recieve the results in a Prom
 
 ## Installation
 
+NPM
+
 ```
-$ npm install request-multiple-urls
+$ npm install @dannycurrie/request-multiple-urls
+```
+
+Yarn
+
+```
+$ yarn add @dannycurrie/request-multiple-urls
 ```
 
 ## Usage
