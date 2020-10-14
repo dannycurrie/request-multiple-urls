@@ -11,7 +11,7 @@ const logAndThrowError = (url) => (err) => {
 };
 
 /**
- * Given an array of urls, will return the results of their requests as an array of results
+ * Given an array of urls, returns a promise of their concatinated results
  *
  * @example
  *  const myURLs = ['http://one.com', 'http://two.com']
